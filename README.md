@@ -1,6 +1,7 @@
 # Análisis Topológico de Datos
 
 **Licenciatura en Matemáticas**
+
 **Dr. Gerardo Mauricio Toledo Acosta**
 
 ## Descripción
