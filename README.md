@@ -1,7 +1,7 @@
-# TDA-GDL: Análisis Topológico de Datos y Aprendizaje Geométrico Profundo
+# Análisis Topológico de Datos
 
-**Curso del Posgrado en Ciencias Matemáticas UNISON**  
-*Aspectos Matemáticos y Computacionales del Aprendizaje Automático*
+**Licenciatura en Matemáticas**
+**Dr. Gerardo Mauricio Toledo Acosta**
 
 ## Descripción
 
