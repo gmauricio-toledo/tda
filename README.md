@@ -14,7 +14,7 @@ Este curso propone estudiar los fundamentos matemáticos de dos marcos teóricos
 - Aprendizaje automático vs Programación tradicional
 - Espacio de caracteristicas
 - Aprendizaje supervisado y no supervisado
-- Clustering
+- Clustering y Reducción de dimensionalidad
 
 ### Módulo 2: Homología Persistente
 Estudio computacional de propiedades topológicas intrínsecas.
