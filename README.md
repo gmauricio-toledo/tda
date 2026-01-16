@@ -45,5 +45,5 @@ Estructura combinatoria y simplificación de complejos celulares.
 
 A continuación se enlistan algunos recursos adicionales para aprender, o mejorar, el manejo de Python:
 
-1. [Curso Introductorio de Python](https://github.com/gmauricio-toledo/Curso-Python-2023): Las notebooks vistas en las primeras dos clases se tomaron de este repositorio.
-2. Algunas notebooks basadas en las anteriores pero con más detalle: [Introducción](https://github.com/gmauricio-toledo/MetodosNumericos/blob/main/00-Introducción.ipynb), [Control de flujo](https://github.com/gmauricio-toledo/MetodosNumericos/blob/main/01-Flujo.ipynb), [Funciones y graficación](https://github.com/gmauricio-toledo/MetodosNumericos/blob/main/02-Funciones_Graficacion.ipynb). Estas notebooks fueron parte de una introducción para un curso de Métodos Numéricos de licenciatura.
+1. [Curso Introductorio de Python]([https://github.com/gmauricio-toledo/Curso-Python-2023](https://github.com/gmauricio-toledo/Curso-Python-2023/tree/main/Notebooks)): Las notebooks de Numpy y Matplotlib vistas en clase se tomaron de este repositorio.
+2. Algunas notebooks basadas en las anteriores, más detalladas: [Introducción](https://github.com/gmauricio-toledo/MetodosNumericos/blob/main/00-Introducción.ipynb), [Control de flujo](https://github.com/gmauricio-toledo/MetodosNumericos/blob/main/01-Flujo.ipynb), [Funciones y graficación](https://github.com/gmauricio-toledo/MetodosNumericos/blob/main/02-Funciones_Graficacion.ipynb). Estas notebooks fueron parte de una introducción para un curso de Métodos Numéricos de licenciatura.
